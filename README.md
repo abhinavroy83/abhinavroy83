@@ -10,7 +10,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems Leetcoede and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhinav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-anand-957369202/)
 
