@@ -15,7 +15,6 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhinav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-anand-957369202/)
 
 
-### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinavroy83&theme=dark&background=000000)](https://git.io/streak-stats)
 <!---
