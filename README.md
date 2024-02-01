@@ -20,6 +20,5 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!---
 abhinavroy83/abhinavroy83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<img src="https://komarev.com/ghpvc/?username=abhinavroy83&style=flat-square&color=blue" alt=""/>
 
 --->
